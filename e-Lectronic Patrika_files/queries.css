@@ -1,0 +1,146 @@
+@media (max-width: 44em) {
+  .logo-1,
+  .logo-2 {
+    height: 3rem;
+    margin-right: 2rem;
+  }
+  .main-nav-link-1:link,
+  .main-nav-link-2:link,
+  .main-nav-link-3:link {
+    font-size: 0.75rem;
+  }
+  .main-nav-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .heading-primary {
+    font-size: 2rem;
+    line-height: 1.05;
+  }
+  .main-head-text-1,
+  .main-head-text-2,
+  .sub-head-text {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .img {
+    height: 5rem;
+    width: 5rem;
+  }
+  .img-stu {
+    height: 5rem;
+    width: 5rem;
+  }
+  .img-small-2,
+  .img-small {
+    height: 3rem;
+    width: 3rem;
+  }
+  .name,
+  .name-small {
+    font-size: xx-small;
+  }
+  .heading-secondary {
+    font-size: 2rem;
+  }
+  .heading-tertiary-1,
+  .heading-tertiary-2 {
+    font-size: 1rem;
+  }
+  .head-letter h5 {
+    font-size: 2rem;
+  }
+  .editor-main,
+  .editor,
+  .name-2 {
+    font-size: xx-small;
+  }
+  .events-june,
+  .events-july,
+  .gallery-fdp {
+    grid-template-columns: 1fr;
+  }
+  .event {
+    font-size: 1rem;
+    margin-top: 1.6rem;
+    margin-bottom: 1rem;
+    line-height: 2;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  .event-july-pub,
+  .event-july-conf,
+  .event-july-book {
+    font-size: 1.5rem;
+  }
+  .session {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+  .events-july .session {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+  .award-pic {
+    height: 20rem;
+    width: 25rem;
+  }
+  .Paper-1,
+  .Paper-3,
+  .book-1,
+  .MoU-1 {
+    height: 20rem;
+    width: 25rem;
+  }
+  .Paper-2 {
+    height: 24rem;
+    width: 25rem;
+  }
+  .img-project {
+    height: 12rem;
+    width: 14rem;
+  }
+  .img-fdp {
+    height: 10rem;
+    width: 20rem;
+    margin-top: 1.5rem;
+  }
+  .img-fdp1-session {
+    height: 20rem;
+    width: 12rem;
+    margin-top: 1.5rem;
+  }
+  .name-1 {
+    margin-left: 1.5rem;
+  }
+
+  .head-event-3 {
+    font-size: 1rem;
+    text-align: center;
+    margin-right: 8rem;
+    margin-bottom: 0rem;
+  }
+  .head-head-event-3 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #2e4a07;
+  }
+
+  .footer h2 {
+    font-size: 1rem;
+  }
+  .gallery-02-cols,
+  .gallery-03-cols {
+    gap: 5rem;
+  }
+  .gallery-05-cols,
+  .gallery-06-cols {
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 2rem;
+  }
+  .deptt-info {
+    font-size: 1.5rem;
+  }
+}
