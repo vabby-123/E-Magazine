@@ -3,7 +3,7 @@ $(window).scroll(function() {
     var pos = $(this).offset().top;
 
     var winTop = $(window).scrollTop();
-    if (pos < winTop+400) {
+    if (pos < winTop) {
       $(this).addClass("slide");
     }
   });
@@ -14,16 +14,9 @@ $(window).scroll(function() {
     var imagePos = $(this).offset().top;
 
     var topOfWindow = $(window).scrollTop();
-        if (imagePos < topOfWindow+400) {
+        if (imagePos < topOfWindow) {
             $(this).addClass("fadeIn");
         }
     });
 });
 
-if($(window).width()<700 )
-{
-  
-
-
-
-}
