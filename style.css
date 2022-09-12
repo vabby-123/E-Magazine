@@ -206,30 +206,11 @@ img{
 background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
 
 }
-@media (max-width:1028px) {
-    #title{
-        text-align:center;
-    }
-    .title-image
-    {
-        transform: rotate(0);
-    }
+
 
    
 
-    .imgCircularhoD
-    {
-        width: 80%;
-    }
-
-    .logo-1{
-      width: 80%;
-      float: left;
-    }
-
-
-}
-
+   
 
 .fadedfx {
     background-color: #fe5652;
