@@ -66,6 +66,29 @@ h1{
       transform: rotateY(360deg) 
     }
   }
+@media (max-width:1028px) {
+    #title{
+        text-align:center;
+    }
+    .title-image
+    {
+        transform: rotate(0);
+    }
+
+   
+
+    .imgCircularhoD
+    {
+        width: 80%;
+    }
+
+    .logo-1{
+      width: 80%;
+      float: left;
+    }
+
+
+}
 
 
 .nav-item{
