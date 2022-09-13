@@ -99,6 +99,29 @@ h1{
     
      
 }
+@media (max-width:600px) {
+    #title{
+        text-align:center;
+    }
+    .title-image
+    {
+        transform: rotate(0);
+    }
+
+    
+  
+    .imgCircularhoD
+    {
+        width: 80%;
+    }
+
+    .logo-1{
+      width: 80%;
+      float: left;
+    }
+
+
+}
 
 .navbar{
     padding: 0 0 3.0rem;
